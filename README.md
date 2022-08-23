@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GermanDiFrancesco
 - 👀 I’m interested in Web Development and i love Game Developement and Design
-- 🌱 I’m currently learning React
+- 🌱 I’m currently practicing front end
 - 👨🏻‍💻 I'm Working for CANDS
 
 <!---
