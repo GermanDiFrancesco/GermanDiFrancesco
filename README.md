@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @GermanDiFrancesco
 - 👀 I’m interested in Web Development, React, Game Developement and Design
 - 🌱 I’m currently practicing React.js
-- 👨🏻‍💻 I'mcurrenly Working at SAFIN - Sistema Administrativo Financero (ar)
+- 👨🏻‍💻 I'mcurrenly Working at SAFIN - Sistema Administrativo Financiero (ar)
